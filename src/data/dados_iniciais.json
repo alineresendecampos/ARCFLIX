@@ -1,0 +1,215 @@
+{
+  "categorias": [
+    {
+      "titulo": "UI and UX",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "InVision Design Talks — Measure UX impact",
+          "url": "https://www.youtube.com/watch?v=BNixlNlUEdM"
+        },
+        {
+          "titulo": "Prototyping in Sketch is here",
+          "url": "https://www.youtube.com/watch?v=BqG08eiwzFM"
+        },
+        {
+          "titulo": "The 2020 Logo Design (Mini) Crash Course",
+          "url": "https://www.youtube.com/watch?v=ab3Sy-HnUB0"
+        },
+        {
+          "titulo": "Figma Tutorial - A Free UI Design/Prototyping Tool.",
+          "url": "https://www.youtube.com/watch?v=3q3FV65ZrUs"
+        },
+        {
+          "titulo": "Typography Tutorial - 10 rules to help you rule type",
+          "url": "https://www.youtube.com/watch?v=QrNi9FmdlxY"
+        },
+        {
+          "titulo": "9 Tips for Becoming a GREAT UI Designer",
+          "url": "https://www.youtube.com/watch?v=_J1Le-4aXhE"
+        }
+      ]
+    },
+    {
+      "titulo": "Design",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Videos and podcasts about Design",
+        "url": "https://www.youtube.com/results?search_query=design"
+      },
+      "videos": [
+        {
+          "titulo": "Designing for Diversity - Podcast",
+          "url": "https://www.youtube.com/watch?v=xWFt_Nk-nRs&list=PLeWHfyz6lrQWhL_ix2GpchrW4TyOe0Cfb"
+        },
+        {
+          "titulo": "The Rhythms and Habits of Successful UX Practitioners",
+          "url": "https://www.youtube.com/watch?v=VbpCBCwD7r4"
+        },
+        {
+          "titulo": "What is a Design Sprint? A simple SUMMARY for beginners",
+          "url": "https://www.youtube.com/watch?v=Uu8jmVhwj_o"
+        },
+        {
+          "titulo": "Improving the User Experience of Medical Devices",
+          "url": "https://www.youtube.com/watch?v=lRL19sWM1wk"
+        },
+        {
+          "titulo": "My (First) Design Portfolio",
+          "url": "https://www.youtube.com/watch?v=hqYIe5Y76oY"
+        }
+      ]
+    },
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Front End courses at Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Back End courses at Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Learning about Technology",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Learning courses at Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Movies",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Captain Fantastic",
+          "url": "https://www.youtube.com/watch?v=DHJuC8U8CHU"
+        },
+        {
+          "titulo": "Pride and Prejudice",
+          "url": "https://www.youtube.com/watch?v=7Afx8MGg00g"
+        },
+        {
+          "titulo": "The Glass Castle",
+          "url": "https://www.youtube.com/watch?v=pJUuhCMbWyg"
+        },
+        {
+          "titulo": "Harry Potter",
+          "url": "https://www.youtube.com/watch?v=MxqsmsA8y5k"
+        }
+      ]
+    },
+    {
+      "titulo": "Travel and Interests",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Welcome to Brazil, Welcome to São Paulo by Nas Daily",
+          "url": "https://www.youtube.com/watch?v=NAzIOyRUAK4"
+        },
+        {
+          "titulo": "PRA QUE TANTA ROUPA? - Tools and Rules",
+          "url": "https://www.youtube.com/watch?v=bII-PLnZz_k"
+        },
+        {
+          "titulo": "The Strongest Accent?!",
+          "url": "https://www.youtube.com/watch?v=yrQp1LaQoiQ&t=1s"
+        },
+        {
+          "titulo": "Creators for Change em LIBRAS - Por que preciso voltar à escola | Ana Paula Xongani",
+          "url": "https://www.youtube.com/watch?v=gbSf88LNJa8"
+        },
+        {
+          "titulo": "World Map is Wrong",
+          "url": "https://www.youtube.com/watch?v=GR7gVIZJfQo"
+        }
+      ]
+    }
+  ]
+}
