@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"As UXers, we all want to build amazing, user-friendly products that users love and engage with. Click-through rates, page views, and conversion rates are often the metrics used to measure the success of a product. But these don’t always give us insights into our users"}
       />
 
       <Carousel
