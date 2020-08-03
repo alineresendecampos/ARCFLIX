@@ -6,9 +6,20 @@ function RegisterCategory() {
     return (
         <PageDefault>
             <h1>Register a new category</h1>
+            <form>
+                <label>
+                    Name:
+                    <input type="text" />
+                </label>
+
+                <button>
+                    Register
+                </button>
+            </form>
+
 
             <Link to='/'>
-                go home
+                Return home
             </Link>
         </PageDefault>
     )

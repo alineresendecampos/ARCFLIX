@@ -8,7 +8,7 @@ function RegisterVideo() {
             <h1>Register a new video</h1>
 
             <Link to='/register/category'>
-                Rgister category
+                Register new category
             </Link>
         </PageDefault>
     )
